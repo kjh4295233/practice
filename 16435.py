@@ -12,3 +12,4 @@ for i in range(fruit):
         break
 print(long)
 
+# github 연습용 수정
